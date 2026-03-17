@@ -2,7 +2,8 @@
 Project Overview
 In a typical supply chain, 20% of items often account for 80% of the volume. 
 This project implements a data-driven approach to inventory classification using Python. 
-By segmenting items based on total quantity (ABC Analysis) and demand volatility (XYZ Analysis), we can optimize stock levels, reduce carrying costs, and improve service levels.
+By segmenting items based on total quantity (ABC Analysis) and demand volatility (XYZ Analysis), we can optimize stock levels, reduce carrying costs, 
+and improve service levels.
 
 🛠️ Key Features
 Data Reshaping: Transformed raw transactional data into a time-series matrix using pandas pivot tables.
