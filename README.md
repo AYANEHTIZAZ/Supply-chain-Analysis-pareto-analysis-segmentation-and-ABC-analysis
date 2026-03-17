@@ -18,3 +18,8 @@ Python 3.x
 Pandas: For data manipulation and aggregation.
 NumPy: For statistical calculations.
 Matplotlib: For visualizing demand trends.
+
+Acknowledgments
+This project was developed as part of my Business Analytics portfolio at FAST NUCES.
+Special thanks to the community and online educators (Samir Saci, youtube= 'Supply Science') 
+for providing the foundational framework that I adapted and extended for this analysis.
